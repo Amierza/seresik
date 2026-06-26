@@ -8,11 +8,11 @@
           >
           <h2 class="text-3xl font-bold text-white mt-2">Lihat Hasilnya, Buktikan Sendiri</h2>
         </div>
-        <button
+        <!-- <button
           class="text-[#3b82f6] hover:text-white transition-colors flex items-center gap-2 bg-transparent border-none cursor-pointer text-base"
         >
           Lihat Semua <span class="material-symbols-outlined">arrow_forward</span>
-        </button>
+        </button> -->
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
