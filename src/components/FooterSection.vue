@@ -149,7 +149,7 @@
       class="mt-20 pt-8 border-t border-[#c3c6d7] text-center text-sm text-[#434655]/60 px-6 lg:px-16 max-w-[1200px] mx-auto"
     >
       <p class="mb-2">© {{ currentYear }} Seresik Wash. All rights reserved.</p>
-      <p>Made with ❤️ di Jakarta | Jasa Cuci Sepatu Terpercaya</p>
+      <p>Made with ❤️ di Lamongan | Jasa Cuci Sepatu Terpercaya</p>
     </div>
   </footer>
 </template>

@@ -175,7 +175,7 @@ export const useAppStore = defineStore('app', () => {
         'Selesai 2-3 hari',
       ],
       isPopular: true,
-      badge: 'PALING DIMINATI 🔥',
+      badge: 'PALING DIMINATI',
     },
     {
       id: 'premium',
