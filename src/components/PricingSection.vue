@@ -35,7 +35,7 @@
           </p>
 
           <div class="flex items-baseline mb-8">
-            <span class="text-4xl font-bold text-[#191c1e]"
+            <span class="text-3xl font-bold text-[#191c1e]"
               >Rp {{ plan.price.toLocaleString('id-ID') }}</span
             >
             <span class="text-[#434655] ml-2">{{ plan.unit }}</span>
